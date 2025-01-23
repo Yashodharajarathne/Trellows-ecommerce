@@ -57,6 +57,10 @@ This is a **modern and responsive e-commerce website** designed for the Tallows 
 ![Customer Login](https://github.com/user-attachments/assets/96d17aa8-2e98-44a0-ab12-e2b18c688517)  
 
 ### Admin Login
+
+username:admin@gmail.com
+password:admin1234
+
 ![Admin Login](https://github.com/user-attachments/assets/562751b0-54b8-4eda-9ad5-c4597b973928)  
 
 ### Admin Dashboard
