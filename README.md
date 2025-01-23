@@ -9,7 +9,7 @@
 
 ---
 
-# Tallows Shop - E-Commerce Website
+# Trellows Shop - E-Commerce Website
 
 This is a **modern and responsive e-commerce website** designed for the Tallows Shop. Built using the **PHP Laravel Framework** and **MySQL database**, it offers a seamless shopping experience with advanced frontend features powered by **Bootstrap 5**, **jQuery**, **AJAX**, and custom **CSS**.
 
