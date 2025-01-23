@@ -7,60 +7,86 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# Tallows Shop - E-Commerce Website
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+This is a **modern and responsive e-commerce website** designed for the Tallows Shop. Built using the **PHP Laravel Framework** and **MySQL database**, it offers a seamless shopping experience with advanced frontend features powered by **Bootstrap 5**, **jQuery**, **AJAX**, and custom **CSS**.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+---
 
-## Learning Laravel
+## Key Features
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Modern UI/UX**: Fully responsive design using Bootstrap 5 with a light/dark mode toggle for a personalized user experience.
+- **Dynamic Product Catalog**: Explore products with filters and categories.
+- **Cart Management**: Add, remove, and update cart items effortlessly.
+- **User Authentication**: Secure login, registration, and profile management.
+- **Admin Panel**: Manage products, orders, and users with ease.
+- **AJAX Support**: Smooth and dynamic interactions for operations like adding products to the cart or updating quantities.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Technologies Used
 
-## Laravel Sponsors
+### **Backend**
+- **PHP (Laravel Framework)**: For backend development, routing, and API creation.
+- **MySQL**: As the relational database management system.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### **Frontend**
+- **Bootstrap 5**: For responsive and mobile-first design.
+- **jQuery & AJAX**: For dynamic content updates without page reloads.
+- **CSS**: For additional styling and custom designs.
 
-### Premium Partners
+---
+### **Screen Shots**
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+### Home Page
+![Home Page](https://github.com/user-attachments/assets/ed2e3630-0900-4828-8c7f-44ec0f289e83)  
 
-## Contributing
+![Home Page](https://github.com/user-attachments/assets/133c4db5-5451-4216-b67d-e2d1e0d91e66)  
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Home Page](https://github.com/user-attachments/assets/fa1a3ecb-f7e0-4089-b520-f4a45fba8cfa)  
 
-## Code of Conduct
+### Customer Login
+![Customer Login](https://github.com/user-attachments/assets/06cb55e7-e6ac-45b0-b35a-080708fb2b2b) 
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Customer Login](https://github.com/user-attachments/assets/6b7ee91d-303b-456b-afec-abf535d4f4d8)  
 
-## Security Vulnerabilities
+![Customer Login](https://github.com/user-attachments/assets/cae88754-d62b-4e71-95bf-05dbad561c26)  
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![Customer Login](https://github.com/user-attachments/assets/96d17aa8-2e98-44a0-ab12-e2b18c688517)  
 
-## License
+### Admin Login
+![Admin Login](https://github.com/user-attachments/assets/562751b0-54b8-4eda-9ad5-c4597b973928)  
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Admin Dashboard
+![Admin Dashboard](https://github.com/user-attachments/assets/98ec3330-d995-4d2d-9c7c-5ea519f36957)  
+
+![Admin Dashboard](https://github.com/user-attachments/assets/b4019d0b-74c8-434c-90ef-531df1d32dbb)  
+
+![Admin Dashboard](https://github.com/user-attachments/assets/fca205a9-4adc-431c-be83-18c2c43e4f21)  
+
+![Admin Dashboard](https://github.com/user-attachments/assets/a45377b4-bb67-4749-80b8-7cf843b69eb8)  
+
+![Admin Dashboard](https://github.com/user-attachments/assets/392e239f-9a4b-471e-b8b7-1d2bbafad67c)  
+
+
+## Installation
+
+Follow these steps to set up the project on your local system:
+
+### Prerequisites
+- PHP 8.0 or higher
+- Composer
+- MySQL
+- Node.js and npm
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tallows-shop.git
+
+### Note
+🚧 Customer-Side Development in Progress 🚧
+
+The customer-side features of this e-commerce platform are currently under development. Some functionalities may not be fully operational or are subject to change.
