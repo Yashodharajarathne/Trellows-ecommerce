@@ -90,7 +90,4 @@ Follow these steps to set up the project on your local system:
    ```bash
    git clone https://github.com/your-username/tallows-shop.git
 
-### Note
-🚧 Customer-Site Development in Progress 🚧
 
-The customer-site features of this e-commerce platform are currently under development. Some functionalities may not be fully operational or are subject to change.
